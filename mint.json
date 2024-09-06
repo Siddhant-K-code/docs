@@ -27,6 +27,10 @@
   },
   "tabs": [
     {
+      "name": "[Deprecated] Docs type II",
+      "url": "docs-type-2"
+    },
+    {
       "name": "API Reference",
       "url": "api-reference"
     }
@@ -60,6 +64,10 @@
     {
       "group": "API Documentation",
       "pages": ["api-reference/introduction"]
+    },
+    {
+      "group": "[Deprecated] Docs Type II",
+      "pages": ["docs-type-2/code"]
     },
     {
       "group": "Endpoint Examples",
